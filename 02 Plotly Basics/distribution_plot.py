@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 import scipy
 import plotly.offline as pyo
 from plotly.tools import FigureFactory as ff ## More complex figures
